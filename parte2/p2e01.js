@@ -1,3 +1,5 @@
+// Array Map
+
 // funcion de suma total
 const suma = (ns) => {
     let acumulado = 0;
