@@ -17,7 +17,7 @@ const multiplicados = numeros.map(x => x * 2);
 
 // pares
 const parejas = numeros.map(x => [x,x]);
-// console.log(parejas);
+console.log(parejas);
 
 
 

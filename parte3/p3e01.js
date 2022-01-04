@@ -22,7 +22,7 @@ const indexed = mascotas.reduce((acc, el) => ({
     [el.nombre]: el,
 }),{})
 
-// console.log(indexed);
+console.log(indexed);
 console.log(indexed['Pelusa']);
 
 const anidado = [1, [2,3], 4, [5]];
