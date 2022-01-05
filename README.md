@@ -1,3 +1,6 @@
+Programación Funcional - Nicolás Schurmann
+
+
 Link a Youtube
 https://www.youtube.com/watch?v=fCvuOyVXUUQ&list=PLSnadb41DsdKMddToNitoXrgHK7CEbUki&index=9
 
@@ -36,5 +39,8 @@ Capítulo 8
             https://www.nicolas-schurmann.com/imperativa-vs-declarativa/
 
 Capítulo 9
+    Promesas
+        npm install --save isomorphic-fetch
+
 
 
